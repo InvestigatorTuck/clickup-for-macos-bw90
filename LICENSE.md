@@ -1,4 +1,4 @@
-
+Enhance ClickUp for macOS with automatic ClickUp for macOS Automation | dark mode + tags, the #1 automation. Includes dark mode and tags for a smoother experience.
 
 
 
